@@ -18,8 +18,7 @@ To build a predictive model that classifies whether a customer will churn or not
 ## ⚙️ Machine Learning Algorithms
 - Logistic Regression
 - Decision Tree
-- Random Forest (if used)
-- Other classification models
+- Random Forest
 
 ## 📊 Features
 - Data preprocessing and cleaning
