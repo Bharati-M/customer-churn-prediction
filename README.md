@@ -27,7 +27,7 @@ To build a predictive model that classifies whether a customer will churn or not
 - Performance evaluation (Accuracy, Confusion Matrix, etc.)
 
 ## 📁 Dataset
-The dataset contains customer details such as demographics, services used, and account information.
+- <a href="https://github.com/Bharati-M/HR-Dashboard/blob/main/hr-data.xlsx">Dataset</a>
 
 ## 🚀 How to Run
 1. Open the notebook in Jupyter Notebook / Google Colab
