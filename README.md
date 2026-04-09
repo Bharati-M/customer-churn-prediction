@@ -28,6 +28,7 @@ To build a predictive model that classifies whether a customer will churn or not
 
 ## 📁 Dataset
 <a href="https://github.com/Bharati-M/HR-Dashboard/blob/main/HR%20Dashboard.pbix">View Dashboard</a>
+<a href="https://github.com/Bharati-M/customer-churn-prediction/blob/main/Dataset.csv">view Dataset</a>
 
 ## 🚀 How to Run
 1. Open the notebook in Jupyter Notebook / Google Colab
